@@ -66,20 +66,20 @@ Use this helper:
 which renders:   
     
 <!-- SAMPLE: nuget-helper-->
-    <Nuget name="FubuMVC.Core" />
+<Nuget name="FubuMVC.Core" />
 <!-- ENDSAMPLE -->    
   </Section>
 
   <Section title="Gems" id="gems">
-    Use this helper:
+Use this helper:
 
-    <Snippet name="gem-helper" />
+<Snippet name="gem-helper" />
 
-    which renders:
+which renders:
 
-    <!-- SAMPLE: gem-helper-->
-    <Gem name="ripple-cli" />
-    <!-- ENDSAMPLE -->
+<!-- SAMPLE: gem-helper-->
+<Gem name="ripple-cli" />
+<!-- ENDSAMPLE -->
   </Section>
   
 </markdown>
